@@ -5,7 +5,7 @@ import { Component1 } from './Component1/Component1';
 import classes from './MacBookAir2.module.css';
 import React,{useEffect, useState} from 'react';
 
-export const MacBookAir2=({fdumail}) =>{
+export const MacBookAir2=({fdumail}:any) =>{
     console.log(fdumail);
     const [NFTofMail,SetNFTofMail]=useState('');
     const [InvitationLink,SetInvitationLink]=useState('');
