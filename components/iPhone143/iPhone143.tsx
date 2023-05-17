@@ -11,7 +11,7 @@ interface Props {
   className?: string;
 }
 /* @figmaId 3:6 */
-export const IPhone143=({fdumail})=> {
+export const IPhone143=({fdumail}:any)=> {
     console.log(fdumail);
     const [NFTofMail,SetNFTofMail]=useState('');
     const [InvitationLink,SetInvitationLink]=useState('');
