@@ -1,0 +1,144 @@
+.root {
+    position: relative;
+    width: 390px;
+    height: 844px;
+    align-items: flex-start;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .unnamed {
+    position: absolute;
+    left: 53px;
+    top: 80px;
+    width: 284px;
+    height: 80px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .textBlock {
+    color: #000;
+    font-size: 40px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock2 {
+    margin-top: 0;
+    color: #000;
+    font-size: 40px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .image6 {
+    position: absolute;
+    left: 25px;
+    top: 177px;
+    width: 340px;
+    height: 340px;
+    background-image:/* webpackIgnore: true */ url('/assets/image6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .NFT {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 25px;
+    top: 579px;
+    width: 357px;
+    height: 46px;
+    flex-direction: column;
+  }
+  .NFT2 {
+    position: absolute;
+    left: 25px;
+    top: 691px;
+    width: 357px;
+    height: 46px;
+    flex-direction: column;
+  }
+  .textBlock3 {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock4 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .BASE64NFT {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 35px;
+    top: 625px;
+    width: 302px;
+    height: 49px;
+    flex-direction: column;
+  }
+  .wwwDanmaoXyzReferenceWoshixxxF {
+    position: absolute;
+    left: 25px;
+    top: 778px;
+    width: 312px;
+    height: 50px;
+    flex-direction: column;
+  }
+  .textBlock5 {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock6 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock7 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .wwwDanmaoXyzReferenceWoshixxxF2 {
+    position: absolute;
+    left: 25px;
+    top: 778px;
+    width: 312px;
+    height: 50px;
+    flex-direction: column;
+  }
+  .textBlock8 {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock9 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock10 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  

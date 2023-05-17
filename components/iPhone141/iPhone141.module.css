@@ -1,0 +1,96 @@
+.root {
+    position: relative;
+    width: 390px;
+    height: 844px;
+    align-items: flex-start;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .image2 {
+    position: absolute;
+    left: 34px;
+    top: 170px;
+    width: 142px;
+    height: 142px;
+    background-image:/* webpackIgnore: true */ url('/assets/image2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .image3 {
+    position: absolute;
+    left: 218px;
+    top: 170px;
+    width: 142px;
+    height: 142px;
+    background-image:/* webpackIgnore: true */ url('/assets/image3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .image4 {
+    position: absolute;
+    left: 34px;
+    top: 341px;
+    width: 142px;
+    height: 142px;
+    background-image:/* webpackIgnore: true */ url('/assets/image4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .image5 {
+    position: absolute;
+    left: 218px;
+    top: 341px;
+    width: 142px;
+    height: 142px;
+    background-image:/* webpackIgnore: true */ url('/assets/image5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .unnamed {
+    color: #000;
+    font-size: 40px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 79px;
+    top: 83px;
+    width: 232px;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .Blockee188309 {
+    position: absolute;
+    left: 48px;
+    top: 518px;
+    width: 300px;
+    height: 115px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .textBlock {
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock2 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock3 {
+    margin-top: 0;
+    color: #000;
+    font-size: 20px;
+    font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
